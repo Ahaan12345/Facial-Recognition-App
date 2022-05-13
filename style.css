@@ -1,0 +1,12 @@
+body{
+    background-color: orangered;
+    color: black;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+}
+.heading{
+    width:80%;
+    
+}
